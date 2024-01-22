@@ -1,0 +1,16 @@
+{
+	"name": "htooag/php_prj",
+	"authors": [
+		{
+			"name": "Htoo Aung Wai",
+			"email": "htoow243@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Libs\\": "_classes/Libs/",
+			"Helpers\\": "_classes/Helpers"
+		}
+	}
+}
